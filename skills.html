@@ -63,5 +63,10 @@
     		</tr>
     	</table>
 	</div>
+	<script>
+		var lastUpdated = document.lastModified;
+		var msg = $("<p>").addClass("last-mod").text("Last Modified: " + lastUpdated);
+		msg.appendTo(document.body);
+	</script>
 	</body>
 </html>
