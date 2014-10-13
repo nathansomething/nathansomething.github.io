@@ -230,5 +230,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .paragraph p {
-	margin: 0 30% 0 30%;
+	margin: 50px 30% 50px 30%;
+	font-family: 'Oxygen';
 }
