@@ -229,7 +229,8 @@ h1, h2, h3, h4, h5, h6 {
 	opacity: 0.4;
 }
 
-.paragraph p {
+.paragraph {
 	margin: 50px 30% 50px 30%;
 	font-family: 'Oxygen';
+	font-size: 16px;
 }
