@@ -1,0 +1,15 @@
+I am a full stack developer, born and raised in Portland Oregon, and currently located in Boston Massachusetts, where I am 5th-year student at Northeastern University. I am pursuing a Bachelor of Science in Computer Science, and minors in Russian Studies and History.
+
+My interest in software development goes all the way back to middle school. In 6th grade, I joined my school's FLL Lego Robotics team, where I was first exposed to programming. I loved being able to use code as a tool to solve problems, and I've always been amazed at how a bit of text on a screen can be compiled and brought to life. I also picked up a book on HTML in the seventh grade, and taught myself the basics of web design.
+
+Being in love with robotics and programming, I joined my high school’s FRC team as a Freshman. Although I loved getting to learn about the mechanical and electrical parts of the robot, I confirmed that my true passion was programming. I was on the programming team from Sophomore through Senior year, and was the team leader during my senior year.
+
+Robotics had taught me the basics of logic and C++, but I wanted to learn more. Unfortunately, my high school didn't offer any programming classes, so I took two introductory computer science classes at Portland Community College. These skills paved the way for my first internship during my senior year of high school at Vernier Software and Technology.
+
+Since coming to Northeastern, I've grown immensely both as a person and as a programmer. My coursework has challenged me, given me a new perspective, and opened my mind to different ways of thinking. My classmates have inspired me and pushed me to become my best self. I love energy of Boston and its thriving tech community, and I love attending lectures, hackathons, and meetups all around the city. During my time at Northeastern, I've held three internships, totalling around 18 months of work experience.
+
+In addition to Computer Science, I'm pursuing a minor in Russian Studies. I've studied Russian for 5 years and hope to someday be fluent. I love to read Russian books, listen to Russian Music, and practice with native speakers.
+
+I am also pursuing a minor in History. I find learning about the past both interesting and informative. I strongly believe that if you truly want to understand something, you first need to understand how it came about.
+
+In my spare time, I love travelling, hiking, biking, cooking, and playing board and role-playing games.

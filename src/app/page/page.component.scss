@@ -1,0 +1,49 @@
+div {
+
+  margin: 0;
+  padding: 0;
+  border-top: 2px solid #000;
+  height: 90vh;
+  display: block;
+  background-blend-mode: multiply;
+  background-repeat: repeat;
+
+  article {
+
+    margin: 5vh 10vw;
+    padding: 2em;
+    height: 70vh;
+    display: block;
+
+    header {
+
+      margin: 0 0 1em 0;
+      padding: 0;
+      padding-bottom: 10px;
+      text-align: center;
+
+      h2 {
+        margin: 0;
+        padding: 0;
+      }
+    }
+
+    div {
+
+      height: 90%;
+      border: 0;
+      margin: auto;
+
+      section {
+
+        padding: 1em 1em 0;
+        margin: auto;
+        font-size: 22px;
+        overflow-y: hidden;
+        height: 100%;
+        color: inherit;
+
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+<section [style.background]="background">
+  <ng-container *ngIf="image_url">
+    <img [src]="image_url">
+  </ng-container>
+  <h4>{{title}}</h4>
+  <p>
+    <ng-content></ng-content>
+  </p>
+  <div class="caption" *ngIf="date">
+    <em>{{date}}</em>
+  </div>
+</section>

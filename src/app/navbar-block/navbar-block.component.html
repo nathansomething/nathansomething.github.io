@@ -1,0 +1,25 @@
+<nav>
+  <h3><a scrollTo href="#top">Nathan Goodman</a></h3>
+  <ul>
+    <li *ngFor="let nav_item of nav_items; let index = index">
+        <a scrollTo (click)="setActive(nav_item, index)" [ngClass]="{active: active_item == index}" [href]="'#' + nav_item.replace(' ', '')">{{nav_item}}</a>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <a href="https://github.com/nathansomething">
+        <img [src]="github_img" alt="Github" title="Github">
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/nathangoodman49/">
+        <img [src]="linkedin_img" alt="LinkedIn" title="LinkedIn">
+      </a>
+    </li>
+    <li>
+      <a href="http://stackoverflow.com/users/3034741/nmg49?tab=profile">
+        <img [src]="stackoverflow_img" alt="StackOverflow" title="StackOverflow">
+      </a>
+    </li>
+  </ul>
+</nav>
