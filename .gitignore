@@ -1,8 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-# compiled output
-/dist
-/tmp
+# compiled output (don't ingore these because of github hosting)
+#/dist
+#/tmp
 
 # dependencies
 /node_modules
